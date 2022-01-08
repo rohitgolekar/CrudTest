@@ -1,0 +1,18 @@
+{
+  "Employees": [
+    {
+      "Fname": "rohitthh",
+      "Lname": "golekarfff",
+      "Email": "rohitgolekar000333@gmail.com",
+      "id": 1,
+      "name": "rohitd",
+      "email": "rohitgolekar000@gmail.comw"
+    },
+    {
+      "Fname": "rohit1",
+      "Lname": "golekar2",
+      "Email": "rohitgolekar0002@gmail.com",
+      "id": 4
+    }
+  ]
+}
