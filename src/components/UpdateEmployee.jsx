@@ -46,12 +46,12 @@ function UpdateEmployee() {
                 <h4 className="text-center text-white">UPDATE - USER</h4>
                     <div className="col-md-6 mx-auto">
                         <div className="form-group my-2">
-                            <label htmlFor="Fname">Employee Name</label>
-                            <input type="text" value={Employees.Fname} className="form-control" onChange={handleChanege} id="Fname" name="Fname" placeholder="Enter Employee Name" />
+                            <label htmlFor="Fname">First Name</label>
+                            <input type="text" value={Employees.Fname} className="form-control" onChange={handleChanege} id="Fname" name="Fname" placeholder="Enter First Name" />
                         </div>
                         <div className="form-group my-2">
-                            <label htmlFor="Lname">Call Mobile</label>
-                            <input type="text" className="form-control" value={Employees.Lname} onChange={handleChanege} id="Lname" name="Lname" placeholder="Enter Call Mobile" />
+                            <label htmlFor="Lname">Last Name</label>
+                            <input type="text" className="form-control" value={Employees.Lname} onChange={handleChanege} id="Lname" name="Lname" placeholder="Enter Last Name" />
                         </div>
                         <div className="form-group my-2">
                             <label htmlFor="Email">Email</label>
